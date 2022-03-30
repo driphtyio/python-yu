@@ -1,14 +1,14 @@
 [HOME](https://driphtyio.github.io/python-yu/)
 
 # Day 1
-6. Printing to the Consolde in Python
+Printing to the Consolde in Python
 
 
 ```
 print("Hello world!")
 ```
 
-8. Exercise 1 - Printing 
+Exercise 1 - Printing 
 
 
 ```
@@ -17,7 +17,7 @@ print("Day 1 - Python Print Function")
 print('The function is declared like this:')
 print("print('what to print')")
 ```
-10. Exercise 2 - Debugging Practice
+Exercise 2 - Debugging Practice
 
 
 ```
@@ -28,14 +28,14 @@ print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 ```
 
-12. Exercise 3 - Input Function
+Exercise 3 - Input Function
 ```
 # Write a program that prints the number of characters in a user's name. You might need to Google for a function that calculates the length of a string
 x = input("What is your name?")
 print(len(x))
 ```
 
-14. Exercise 4 - Variables
+Exercise 4 - Variables
 
 
 ```
@@ -52,7 +52,7 @@ print("a: " + a)
 print("b: " + b)
 ```
 
-16. Day 1 Project; Band Name Generator
+Day 1 Project: Band Name Generator
 
 
 ```
