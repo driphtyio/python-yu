@@ -1,6 +1,6 @@
 [NOTES](https://driphtyio.github.io/python-yu/notes.html)
 
-Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 100 Days of Code: The Complete Python Pro Bootcamp for 2022
+[Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
 ### Day 1 - Beginner- Working with Variables in Python to Manage data
 1. What you're going to get from this course
@@ -22,5 +22,21 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 17. Congratulations! Well Done!
 
 ### Day 2 Beginner - Understanding Data Types and How to Manipulate Strings
+
+18. Day 2 Goals: what we will make by the end of the day
+19. Python Primitive Data Types
+20. Type Error, Type Checking and Type Conversion
+21. Data Types Coding Exercise
+22. Mathematical Operations in Python
+23. BMI Calculator Coding Exercise
+24. Number Manipulation and F strings in Python
+25. Life in Weeks Coding Exercise
+26. Day 2 Project: Tip Calculator
+27. You are already in the top 50%
+
+
+
+
+
 
 [wdev-yu](https://driphtyio.github.io/wdev-yu/)
