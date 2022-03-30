@@ -2,7 +2,7 @@
 
 Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
-# Day 1 - Beginner- Working with Variables in Python to Manage data
+### Day 1 - Beginner- Working with Variables in Python to Manage data
 1. What you're going to get from this course
 2. START HERE
 3. Downloadable Resources and Tips for Taking the Course
@@ -21,5 +21,5 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 16. Day 1 Project: Band Name Generator
 17. Congratulations! Well Done!
 
-# Day 2 Beginner - Understanding Data Types and How to Manipulate Strings
+### Day 2 Beginner - Understanding Data Types and How to Manipulate Strings
 
