@@ -1,8 +1,6 @@
 [HOME](https://driphtyio.github.io/python-yu/)
 
-100 Days of Code: The Complete Python Pro Bootcamp for 2022 Study Guide
-
-# Day 1
+## Day 1
 
 ### Exercise 1 - Printing 
 
