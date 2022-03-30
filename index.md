@@ -1,8 +1,6 @@
 [NOTES](https://driphtyio.github.io/python-yu/notes.html)
 
-100 Days of Code: The Complete Python Pro Bootcamp for 2022
-
-Study guide
+Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
 # Day 1 - Beginner- Working with Variables in Python to Manage data
 1. What you're going to get from this course
