@@ -1,3 +1,5 @@
+[NOTES](https://driphtyio.github.io/python-yu/notes.html)
+
 100 Days of Code: The Complete Python Pro Bootcamp for 2022
 
 Study guide
