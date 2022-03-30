@@ -23,3 +23,4 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 
 ### Day 2 Beginner - Understanding Data Types and How to Manipulate Strings
 
+[wdev-yu](https://driphtyio.github.io/wdev-yu/)
