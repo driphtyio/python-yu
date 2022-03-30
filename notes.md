@@ -3,12 +3,6 @@
 100 Days of Code: The Complete Python Pro Bootcamp for 2022 Study Guide
 
 # Day 1
-Printing to the Consolde in Python
-
-
-```
-print("Hello world!")
-```
 
 ### Exercise 1 - Printing 
 
@@ -54,7 +48,7 @@ print("a: " + a)
 print("b: " + b)
 ```
 
-### Day 1 Project: Band Name Generator
+### Day 1 - Project: Band Name Generator
 
 
 ```
